@@ -1,6 +1,30 @@
 body {
   Color: green;
-
+  background-color: lightblue; 
   max-width: 600px;
   margin: auto;
+  h1 {
+	color: blue;
+	text-align: center;
+}
+
+p1 {
+  font-family: Papyrus, Fantasy, sans-serif;
+}
+
+p2 {
+  font-family: Comic Sans MS, Comic Sans, sans-serif;
+}
+
+p3 {
+  font-family: Papyrus, Fantasy, sans-serif;
+}
+
+p4 {
+  font-family: Papyrus, Fantasy, sans-serif;
+}
+
+p5 {
+  font-family: Papyrus, Fantasy, sans-serif;
+} 
 }
