@@ -1,11 +1,11 @@
 body {
   color: MidnightBlue;
-  background-color: Beige; 
+  background-color: DarkSeaGreen; 
   max-width: 800px;
   margin: auto;
 }
   h1 {
-	color: FireBrick;
+	color: DarkSlateGray;
 	text-align: center;
 	  font-family: Verdana;
   font-size: 300%; }
